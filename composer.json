@@ -1,5 +1,5 @@
 {
-    "name": "abd/common",
+    "name": "abiz/common",
     "autoload": {
         "psr-4": {
             "Abd\\Common\\": "src"
